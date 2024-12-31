@@ -1,0 +1,16 @@
+{
+    "name": "peterpike/payment-manager",
+    "description": "This is a payment manager created while learning to create a package",
+    "autoload": {
+        "psr-4": {
+            "Peterpike\\PaymentManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Peter Pike",
+            "email": "pikepeter@gmail.com"
+        }
+    ],
+    "require": {}
+}
